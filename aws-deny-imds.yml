@@ -11,4 +11,5 @@
       chain: OUTPUT
       destination: 169.254.169.254
       uid_owner: !0
+      action: insert
       jump: DROP
